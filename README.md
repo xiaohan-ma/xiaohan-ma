@@ -6,7 +6,7 @@
 
 #### 🌱 Currently making a blockchain audio application, which allow users to upload mp3 files, turn it into a non-fungible token (ERC721 token) and sell this to other users on the application.
 I have experience in:
-- Javascript
+- Javascript (also ReactJS, VueJS, ExpressJS)
 - Java
 - Solidity
 - SQL
