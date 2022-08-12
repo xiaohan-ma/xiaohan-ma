@@ -13,10 +13,7 @@ I have experience in:
 - HTML
 - CSS
 
-#### 👀 Alongside learning programming I am also educating myself on a variety of computer science concepts and areas in order to gain broader knowledge regarding the industry. For example, computer networking concepts, cybersecurity and algorithms.
-
-#### 📚 I love, love, love learning new information. From theoretical physics to how society was symbolised as a theatrical play in the Duchess of Malfi, there are always new things to learn about.
-
+#### 👀 Alongside programming I also like to learn and chase after new disruptions in the technology world. Currently, I am immersed in Web3.0 and blockchain technology through learning Solidity as well as being part of a few prominent projects built on the Ethereum blockchain such as Moonbirds and Veefriends.
 
 #### 📫 My email address is xiaohanma99@hotmail.com
 
