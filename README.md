@@ -9,14 +9,14 @@ I have experience in:
 - Javascript (also ReactJS, VueJS, ExpressJS)
 - Java
 - Solidity
+- Typescript
 - SQL
 - HTML
 - CSS
 
 #### 👀 Alongside programming I also like to learn and chase after new disruptions in the technology world. Currently, I am immersed in Web3.0 and blockchain technology through learning Solidity as well as being part of a few prominent projects built on the Ethereum blockchain such as Moonbirds and Veefriends.
 
-#### 📫 My email address is xiaohanma99@hotmail.com
-
+#### 📫 My email address is xm00128@gmail.com
 <!---
 xiaohan-ma/xiaohan-ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
